@@ -1,6 +1,7 @@
 # Awesome MCP Gateways
 
-A list of awesome MCP Gateway Products. [Open a pull request](https://github.com/e2b-dev/awesome-mcp-gateways/pulls) to contribute.
+A- [Aident Loadout](https://aident.ai) - Hosted MCP that connects agents to 1,000+ apps through one reusable setup.
+ list of awesome MCP Gateway Products. [Open a pull request](https://github.com/e2b-dev/awesome-mcp-gateways/pulls) to contribute.
 
 > [!NOTE]  
 > We're not accepting any crypto or finance-related entries at the time.
